@@ -87,7 +87,7 @@ Use the script `BulkAddUserScript.ps1` and a `names.txt` list.
 - Join Windows 10 client to the domain
 - Log in using one of the created accounts to verify AD functionality
 
-![Client Logon](https://github.com/AmiliaSalva/ActiveDirectoryLab/assets/132176058/a734965e-cfdf-40f3-9c54-a313a185213b)
+
 
 ## Conclusion
 
